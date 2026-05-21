@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+collective_ai/__init__.py
+collective_ai/core.py
+collective_ai/py.typed
+collective_ai.egg-info/PKG-INFO
+collective_ai.egg-info/SOURCES.txt
+collective_ai.egg-info/dependency_links.txt
+collective_ai.egg-info/requires.txt
+collective_ai.egg-info/top_level.txt
+tests/test_core.py

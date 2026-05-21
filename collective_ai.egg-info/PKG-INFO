@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: collective-ai
+Version: 0.1.0
+Summary: Simulation-first collective inference: predict, observe, gap, learn
+Author: SuperInstance
+License-Expression: MIT
+Keywords: collective,inference,simulation,prediction,gap-analysis
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
