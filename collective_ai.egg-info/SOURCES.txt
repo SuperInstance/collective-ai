@@ -10,3 +10,5 @@ collective_ai.egg-info/dependency_links.txt
 collective_ai.egg-info/requires.txt
 collective_ai.egg-info/top_level.txt
 tests/test_core.py
+tests/test_core_coverage.py
+tests/test_core_extended.py
