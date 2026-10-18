@@ -1,1 +1,14 @@
-{"name": "@superinstance/collective-ai", "version": "0.1.0", "description": "Simulation-first collective inference: predict, observe, gap, learn", "license": "MIT"}
+{
+  "name": "@superinstance/collective-ai",
+  "version": "0.1.2",
+  "description": "Simulation-first collective inference: predict, observe, gap, learn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperInstance/collective-ai.git"
+  },
+  "homepage": "https://github.com/SuperInstance/collective-ai#readme",
+  "bugs": {
+    "url": "https://github.com/SuperInstance/collective-ai/issues"
+  }
+}
