@@ -1,6 +1,6 @@
 {
   "name": "@superinstance/collective-ai",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simulation-first collective inference: predict, observe, gap, learn",
   "license": "MIT",
   "repository": {
